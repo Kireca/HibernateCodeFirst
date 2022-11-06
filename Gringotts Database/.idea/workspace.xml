@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c988353-76a1-4b5b-bf72-994dba4e34f4" name="Changes" comment="" />
+    <list default="true" id="fa4fcfc3-f00b-4747-81bd-9ad033a7127f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +39,15 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HB3XMRNOskmBIhIQMTwGrNu6lL" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2H8mv8T1QXvJZCQ7pwkEjZH4NwN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,9 +58,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/M A S T E R/IdeaProjects/Hibernate Code First/FootballBetting/src/main/resources",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "C:/Users/M A S T E R/IdeaProjects/CustomORM",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   },
@@ -68,17 +76,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="entities" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\M A S T E R\IdeaProjects\Hibernate Code First\FootballBetting\src\main\resources" />
+      <recent name="C:\Users\M A S T E R\IdeaProjects\Hibernate Code First\src\main\resources" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="FootballBetting" />
+      <module name="Hibernate Code First" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -98,14 +103,30 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5c988353-76a1-4b5b-bf72-994dba4e34f4" name="Changes" comment="" />
-      <created>1667744688299</created>
+      <changelist id="fa4fcfc3-f00b-4747-81bd-9ad033a7127f" name="Changes" comment="" />
+      <created>1667675314681</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667744688299</updated>
-      <workItem from="1667744689082" duration="3000" />
-      <workItem from="1667744697409" duration="11406000" />
+      <updated>1667675314681</updated>
+      <workItem from="1667675317840" duration="1762000" />
+      <workItem from="1667680373919" duration="3423000" />
+      <workItem from="1667726728307" duration="5717000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit!">
+      <created>1667675495436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667675495436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Break Commit!">
+      <created>1667693979648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667693979648</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +142,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit!" />
+    <MESSAGE value="Break Commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Break Commit!" />
   </component>
 </project>

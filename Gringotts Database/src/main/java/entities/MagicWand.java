@@ -1,12 +1,11 @@
 package entities;
 
-import com.sun.istack.NotNull;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-
 import lombok.Setter;
 
 @Getter
@@ -14,25 +13,20 @@ import lombok.Setter;
 @NoArgsConstructor
 
 @Entity
-public class Wizard {
+@Table(name = "magic_wand")
+public class MagicWand {
 
     @Id
     @Column
     private long id;
 
-    @Column(length = 50)
-    private String firstName;
 
-    @Column(length = 60)
-    @NotNull
-    private String lastName;
+    @Column(length = 100)
+    private String creator;
 
-    @Column
-    @NotNull
-    private int age;
 
-    @Column(length = 1000)
-    private String notes;
+    @Column()
+    private long size;
 
 
 }
